@@ -1,0 +1,34 @@
+[
+  {
+    "name":"Alina ",
+    "age": "20",
+    "height": "159",
+    "gender": "Female",
+    "hair_color":"brown"
+  },
+
+  {
+    "name":"Ashu Rathee",
+    "age": "24",
+    "height": "180",
+    "gender": "Male",
+    "hair_color":"balck"
+  },
+
+  {
+    "name":"Sahil Dalal",
+    "age": "22",
+    "height": "175",
+    "gender": "Male",
+    "hair_color":"Curly Black"
+  },
+
+  {
+    "name":"Nikhil Khatri",
+    "age": "18",
+    "height": "160",
+    "gender": "Male",
+    "hair_color":"brown"
+  }
+
+]
